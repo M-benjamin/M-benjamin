@@ -1,6 +1,6 @@
 [![MasterHead](https://res.cloudinary.com/df0amuzcb/image/upload/v1656430723/Resizer.in_-61868d5b0a449_olzm46.jpg)]()
 <h1 align="center">Hi 👋, I'm Benjamin mballa</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from France</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/df0amuzcb/image/upload/v1656430691/developer_outline_I_sgjrzg.jpg" />
 
 - 🌱 I’m currently learning **Blockchain**
